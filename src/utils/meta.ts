@@ -54,7 +54,7 @@ export function generateQuoteMeta(quote: IQuote) {
 
 export function generateIndexMeta() {
   const title = 'Quotes — Every Day Inspirasional Quotes'
-  const description = 'Website sederhana yang menampilkan Kutipan Inspirasional secara acak. Website ini menampilkan kutipan yang submit oleh para kontributor terbuka dan para peserta event Hacktoberfest 2021. Dapatkan kutipan yang membuatmu tetap termotivasi!'
+  const description = 'A simple website that displays random inspirational quotes. '
   const url = 'https://quotes.nyan.my.id'
 
   return {
