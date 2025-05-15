@@ -27,13 +27,13 @@ Then open your browser at http://localhost:3000
 
 ## 📦 Build Locally
 
-# Install dependencies
+Install dependencies
 npm ci
 
-# Build the app
+Build the app
 npm run build
 
-# Serve the app
+Serve the app
 npx serve -s dist -l 3000
 
 ## 📝 Contributing
