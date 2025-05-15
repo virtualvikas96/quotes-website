@@ -16,19 +16,15 @@ A simple web application that displays random inspirational quotes. This project
 - Express (optional if used)
 - Serve (for static file hosting)
 - Docker
-- Docker Compose
 
 ## 🐳 Run with Docker
 
-''bash
-# Build and run the app
+>> Build and run the app
 docker-compose up --build
 
 Then open your browser at http://localhost:3000
 
-###################################################################
-
-📦 Build Locally
+## 📦 Build Locally
 
 # Install dependencies
 npm ci
@@ -39,9 +35,7 @@ npm run build
 # Serve the app
 npx serve -s dist -l 3000
 
-###################################################################
-
-📝 Contributing
+## 📝 Contributing
 
 We welcome contributions! To add a quote:
 
