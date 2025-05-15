@@ -20,6 +20,7 @@ A simple web application that displays random inspirational quotes. This project
 ## 🐳 Run with Docker
 
 >> Build and run the app
+
 docker-compose up --build
 
 Then open your browser at http://localhost:3000
