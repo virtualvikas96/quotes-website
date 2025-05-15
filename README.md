@@ -19,7 +19,7 @@ A simple web application that displays random inspirational quotes. This project
 
 ## 🐳 Run with Docker
 
->> Build and run the app
+-  Build and run the app
 ```bash
 docker-compose up --build
 ```
@@ -29,13 +29,13 @@ Then open your browser at http://localhost:3000
 ## 📦 Build Locally
 
 ```bash
-Install dependencies
+#Install dependencies
 npm ci
 
-Build the app
+#Build the app
 npm run build
 
-Serve the app
+#Serve the app
 npx serve -s dist -l 3000
 ```
 
